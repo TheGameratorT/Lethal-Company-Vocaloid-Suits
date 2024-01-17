@@ -12,6 +12,6 @@ Place the ```thegameratort-Vocaloid_Suits-X.X.X``` folder in your ```BepInEx/Plu
 ![GUMI](https://raw.githubusercontent.com/TheGameratorT/Lethal-Company-Vocaloid-Suits/main/preview/gumi.jpg)
 
 ## Credits
-These are the original models used as reference to create the suits
+These are the original models used as reference to create the suits:
 - Appearance Miku あぴミク (まままさん)
 - GUMI (まままさん)
