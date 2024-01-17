@@ -1,4 +1,4 @@
-# Vocaloid Suits v1.0.0
+# Vocaloid Suits v1.0.1
 ### Adds Vocaloid characters to Lethal Company as suits!
 
 ## Instructions
