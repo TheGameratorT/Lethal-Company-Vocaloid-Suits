@@ -1,5 +1,5 @@
 # Vocaloid Suits v1.0.0
-### Adds more suits to choose from, and can be used as a library to load your own suits!
+### Adds Vocaloid characters to Lethal Company as suits!
 
 ## Instructions
 Place the ```thegameratort-Vocaloid_Suits-X.X.X``` folder in your ```BepInEx/Plugins``` folder.
