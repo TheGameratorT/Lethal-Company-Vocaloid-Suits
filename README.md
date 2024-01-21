@@ -1,4 +1,4 @@
-# Vocaloid Suits v1.0.1
+# Vocaloid Suits v1.0.2
 ### Adds Vocaloid characters to Lethal Company as suits!
 
 ## Instructions
@@ -11,7 +11,11 @@ Place the ```thegameratort-Vocaloid_Suits-X.X.X``` folder in your ```BepInEx/Plu
 ### GUMI
 ![GUMI](https://raw.githubusercontent.com/TheGameratorT/Lethal-Company-Vocaloid-Suits/main/preview/gumi.jpg)
 
+### Kagamine Rin
+![Kagamine Rin](https://raw.githubusercontent.com/TheGameratorT/Lethal-Company-Vocaloid-Suits/main/preview/kagamine_rin.jpg)
+
 ## Credits
 These are the original models used as reference to create the suits:
 - Appearance Miku あぴミク (まままさん)
 - GUMI (まままさん)
+- YYB式鏡音リン (YYB)
