@@ -1,3 +1,6 @@
+## 1.2.1
+- Fixed Kagamine Rin and Len's eyes.
+
 ## 1.2.0
 - **[NEW SUIT] Added Kagamine Len.**
 
