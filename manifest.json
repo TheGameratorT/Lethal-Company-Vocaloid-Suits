@@ -1,8 +1,8 @@
 {
     "name": "Vocaloid_Suits",
-    "version_number": "1.2.1",
+    "version_number": "1.3.0",
     "website_url": "https://github.com/TheGameratorT/Lethal-Company-Vocaloid-Suits",
-    "description": "Adds Vocaloid characters to Lethal Company as suits! (Miku, GUMI, Rin, Len)",
+    "description": "Adds Vocaloid characters to Lethal Company as suits! (Miku, GUMI, Rin, Len, Teto)",
     "dependencies": [
         "x753-More_Suits-1.4.1"
     ]

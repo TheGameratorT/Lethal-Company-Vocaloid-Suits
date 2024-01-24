@@ -1,5 +1,9 @@
-# Vocaloid Suits v1.2.1
+# Vocaloid Suits v1.3.0
 ### Adds Vocaloid characters to Lethal Company as suits!
+
+This package includes one cosmetic for Kasane Teto's hair that can be used if the mod [MoreCompany](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/) is installed.
+
+Although Kasane Teto is not a Vocaloid, I added her anyway since she fits the style.
 
 ## Instructions
 Place the ```thegameratort-Vocaloid_Suits-X.X.X``` folder in your ```BepInEx/Plugins``` folder.
@@ -29,9 +33,16 @@ Place the ```thegameratort-Vocaloid_Suits-X.X.X``` folder in your ```BepInEx/Plu
 ![Kagamine Len](https://raw.githubusercontent.com/TheGameratorT/Lethal-Company-Vocaloid-Suits/main/preview/kagamine_len.jpg)
 </details>
 
+<details><summary><b>Kasane Teto</b></summary>
+<br>
+
+![Kasane Teto](https://raw.githubusercontent.com/TheGameratorT/Lethal-Company-Vocaloid-Suits/main/preview/kasane_teto.jpg)
+</details>
+
 ## Credits
 These are the original models used as reference to create the suits:
 - Appearance Miku あぴミク (まままさん)
 - GUMI (まままさん)
 - YYB式鏡音リン (YYB)
 - YYB式鏡音レン (YYB)
+- Lat式改変テト (Ula)

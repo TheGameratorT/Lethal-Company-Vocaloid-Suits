@@ -1,3 +1,6 @@
+## 1.3.0
+- Added Kasane Teto.
+
 ## 1.2.1
 - Fixed Kagamine Rin and Len's eyes.
 
