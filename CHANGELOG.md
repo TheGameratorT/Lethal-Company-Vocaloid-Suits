@@ -1,5 +1,9 @@
+## 1.4.0
+- **[SUIT REMAKE] Remade Hatsune Miku.**
+- Remade Kasane Teto hair cosmetic.
+
 ## 1.3.0
-- Added Kasane Teto.
+- **[NEW SUIT] Added Kasane Teto.**
 
 ## 1.2.1
 - Fixed Kagamine Rin and Len's eyes.
